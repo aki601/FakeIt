@@ -1,0 +1,2 @@
+# FakeIt
+FakeNewsDetector
